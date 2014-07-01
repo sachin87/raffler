@@ -32,15 +32,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="2" selection-start="364" selection-end="364" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="300">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,10 +97,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="raffle.js.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="raffle.js.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/raffle.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="22" selection-start="492" selection-end="492" vertical-scroll-proportion="0.3398058" vertical-offset="0" max-vertical-offset="618">
+            <state line="14" column="22" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.3883495" vertical-offset="0" max-vertical-offset="618">
               <folding />
             </state>
           </provider>
@@ -136,6 +136,7 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -657,7 +658,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/raffle.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="22" selection-start="492" selection-end="492" vertical-scroll-proportion="0.3398058" vertical-offset="0" max-vertical-offset="618">
+        <state line="14" column="22" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.3883495" vertical-offset="0" max-vertical-offset="618">
           <folding />
         </state>
       </provider>
