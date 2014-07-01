@@ -1,6 +1,6 @@
 == README
 
-  AngularJS dummy app(from railscasts)
+  AngularJS demo app(from railscasts)
 
   AngularJS is an awesome framework for easily creating rich, client-side applications.
   Its powerful bindings allow you to do a lot with very little code. Here I show how to
