@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-  resources :entries
+  resources :tasks, :defaults => {:format => "json"}
 
   root to: "raffle#index"
 
